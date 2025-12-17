@@ -1,6 +1,3 @@
-C
-
----
 
 # 📘 UNIT I – Programming in C (Expanded Notes)
 
